@@ -1,0 +1,12 @@
+main, header {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+#ligar, #desligar{
+    width: 80px;
+    border-radius: 5px;
+    border: solid;
+    color: black;
+}
